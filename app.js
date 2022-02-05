@@ -59,7 +59,7 @@ tween3.to(second,0.5,{opacity:0},"-=1");
 tween3.to(third,1,{opacity : 1});
 tween3.to(bag,2, {x : 550},"-=2");
 tween3.to(eng,2, {x : 750},"-=2");
-tween3.to(lap,2,{x : -420},"-=2");
+tween3.to(lap,2,{x : "-136%"},"-=2");
 //tween3.to(tea,2, {x : -750},"-=2");
 tween3.to(head,2,{ x: -600 },"-=2");
 
